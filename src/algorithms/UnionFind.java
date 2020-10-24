@@ -56,8 +56,5 @@ public class UnionFind {
     public static void main(String[] args) {
         UnionFind s = new UnionFind();
         s.makeSet(2);
-
     }
-
-
 }
